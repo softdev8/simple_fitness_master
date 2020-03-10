@@ -1,0 +1,19 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+target 'Fitness' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Fitness
+
+#  pod 'React-cxxreact', :path => '../node_modules/react-native/ReactCommon/cxxreact'
+#  pod 'React-jsi', :path => '../node_modules/react-native/ReactCommon/jsi'
+#  pod 'React-jsiexecutor', :path => '../node_modules/react-native/ReactCommon/jsiexecutor'
+#  pod 'React-jsinspector', :path => '../node_modules/react-native/ReactCommon/jsinspector'
+#  pod 'ReactCommon/jscallinvoker', :path => "../node_modules/react-native/ReactCommon"
+#  pod 'ReactCommon/turbomodule/core', :path => "../node_modules/react-native/ReactCommon"
+#  pod 'Yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+
+end
